@@ -1072,8 +1072,8 @@ background-color: transparent;
     background-color: transparent;
     height: 56px;
     padding: 2px 7px;
-    /* color: var(--white-color) !important;
-    opacity: 1; */
+    color: var(--white-color) ;
+    opacity: 1;
     width: 350px;
     border-radius: 5px;
     margin: 0 15px 15px 15px;

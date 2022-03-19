@@ -117,3 +117,6 @@ body{
     background-color: var(--primary-color);
     opacity: 0.95;
 }
+.option-text{
+    color: var(--text-color);
+}
